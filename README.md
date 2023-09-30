@@ -36,12 +36,6 @@ ipython kernel install --user --name=sigmoidwarriors
 
 Now restard vscode. Go inside your desired notebook and select the right jupyter kernel.
 
-To deactive the virtual environment perform the following command.
-
-```bash
-deactivate
-```
-
 ----------------------------------------------------------------------
 
 # When working on the project
@@ -70,5 +64,11 @@ pip install -r requirements.txt
 ```
 
 Moreover it is best practise **NOT** to *push* your virtual environment folder (venv). One should make use of the requirment.txt file.
+
+To deactive the virtual environment perform the following command.
+
+```bash
+deactivate
+```
 
 **Letsgo teeeam!!**
