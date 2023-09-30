@@ -63,7 +63,7 @@ If new packages have been added to the requirments.txt file you can easily add t
 pip install -r requirements.txt
 ```
 
-Moreover it is best practise **NOT** to *push* your virtual environment folder (venv). One should make use of the requirment.txt file.
+Moreover it is best practise **NOT** to *push* your virtual environment folder (sigmoidwarriors). One should make use of the requirment.txt file.
 
 To deactive the virtual environment perform the following command.
 
