@@ -38,6 +38,17 @@ deactivate
 
 # When working on the project
 
+When you open vscode, first go into the folder in which you created your virtual environment. If you followed the setup this will be inside the data folder. If you want to navigate to the folder from the terminal type the following.
+
+```bash
+cd data
+```
+Since you have already created a virtual environment, you only need to activate it.
+
+```bash
+source sigmoidwarriors/bin/activate
+```
+
 When you install new packages with "*pip install package-name*" you should add this to the requirments.txt file. That is done with the following command.
 
 ```bash
