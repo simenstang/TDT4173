@@ -34,7 +34,7 @@ Now we must create a fitting kernal to run the jupyter notebook.
 ipython kernel install --user --name=sigmoidwarriors
 ```
 
-Now restard vscode. Go inside your desired notebook and select the right jupyter kernel.
+Now restart vscode. Go inside your desired notebook and select the right jupyter kernel.
 
 ----------------------------------------------------------------------
 
