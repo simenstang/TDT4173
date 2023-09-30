@@ -38,7 +38,7 @@ deactivate
 
 # When working on the project
 
-When you install new packages with *pip install package-name* you should add this to the requirments.txt file. That is done with the following commmand.
+When you install new packages with "*pip install package-name*" you should add this to the requirments.txt file. That is done with the following commmand.
 
 ```bash
 pip freeze > requirements.txt
