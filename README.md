@@ -28,6 +28,14 @@ pip install --upgrade pip
 pip install -r requirements.txt
 ```
 
+Now we must create a fitting kernal to run the jupyter notebook.
+
+```bash
+ipython kernel install --user --name=sigmoidwarriors
+```
+
+Now restard vscode. Go inside your desired notebook and select the right jupyter kernel.
+
 To deactive the virtual environment perform the following command.
 
 ```bash
