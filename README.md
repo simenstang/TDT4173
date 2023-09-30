@@ -1,5 +1,9 @@
 # TDT4173 PROJECT GUIDE
 
+# Table of Contents
+1. [Setup](#setup)
+2. [When working on the project](#when-working-on-the-project)
+
 # Setup
 
 **NOTE** this guide assumes that everyone has a mac.
