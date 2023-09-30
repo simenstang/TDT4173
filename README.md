@@ -4,8 +4,6 @@ Note this guide assumes that everyone has a mac.
 
 This guide is about how to make a virtual environment. Having a virtual environment is cruical for such a project. A virutal enviornment can be described as follows,
 
-<span style="font-style: italic;">This sentence is in cursive.</span>
-
 "A virtual environment is like a separate bubble for your Python projects, keeping their libraries and tools from mixing and causing problems with each other or your computer's main setup."
 
 To setup a virtual environment perform the following command.
