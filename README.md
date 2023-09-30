@@ -2,11 +2,11 @@
 
 In this ReadMe you will see tutorials and technical details related to this project. It is meant as a tool for us to use in all phases of developing.
 
-# Table of Contents
+## Table of Contents
 1. [Setup](#setup)
 2. [When working on the project](#when-working-on-the-project)
 
-# Setup
+## Setup
 
 **NOTE** this guide assumes that everyone has a mac.
 
@@ -44,7 +44,7 @@ Now restart vscode. Go inside your desired notebook and select the right jupyter
 
 ----------------------------------------------------------------------
 
-# When working on the project
+## When working on the project
 
 When you open vscode, first go into the folder in which you created your virtual environment. If you followed the setup this will be inside the data folder. If you want to navigate to the folder from the terminal type the following.
 
