@@ -1,4 +1,6 @@
-# TDT4173 PROJECT GUIDE
+# TDT4173 Sigmoidwarriors Project Guide
+
+In this ReadMe you will see tutorials and technical details related to this project. It is meant as a tool for us to use in all phases of developing.
 
 # Table of Contents
 1. [Setup](#setup)
