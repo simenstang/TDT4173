@@ -1,6 +1,12 @@
-# TDT4173 PROJECT GUIDE
+# TDT4173 Sigmoidwarriors Project Guide
 
-# Setup
+In this ReadMe you will see tutorials and technical details related to this project. It is meant as a tool for us to use in all phases of developing.
+
+## Table of Contents
+1. [Setup](#setup)
+2. [When working on the project](#when-working-on-the-project)
+
+## Setup
 
 **NOTE** this guide assumes that everyone has a mac.
 
@@ -28,15 +34,17 @@ pip install --upgrade pip
 pip install -r requirements.txt
 ```
 
-To deactive the virtual environment perform the following command.
+Now we must create a fitting kernal to run the jupyter notebook.
 
 ```bash
-deactivate
+ipython kernel install --user --name=sigmoidwarriors
 ```
+
+Now restart vscode. Go inside your desired notebook and select the right jupyter kernel.
 
 ----------------------------------------------------------------------
 
-# When working on the project
+## When working on the project
 
 When you open vscode, first go into the folder in which you created your virtual environment. If you followed the setup this will be inside the data folder. If you want to navigate to the folder from the terminal type the following.
 
@@ -61,6 +69,12 @@ If new packages have been added to the requirments.txt file you can easily add t
 pip install -r requirements.txt
 ```
 
-Moreover it is best practise **NOT** to *push* your virtual environment folder (venv). One should make use of the requirment.txt file.
+Moreover it is best practise **NOT** to *push* your virtual environment folder (sigmoidwarriors). One should make use of the requirment.txt file.
+
+To deactive the virtual environment perform the following command.
+
+```bash
+deactivate
+```
 
 **Letsgo teeeam!!**
