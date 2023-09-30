@@ -1,5 +1,7 @@
 # TDT4173 PROJECT GUIDE
 
+# Setup
+
 Note this guide assumes that everyone has a mac.
 
 This guide is about how to make a virtual environment. Having a virtual environment is cruical for such a project. A virutal enviornment can be described as follows,
@@ -30,6 +32,22 @@ To deactive the virtual environment perform the following command.
 
 ```bash
 deactivate
+```
+
+----------------------------------------------------------------------
+
+# When working on the project
+
+When you install new packages with *pip install package-name* you should add this to the requirments.txt file. That is done with the following commmand.
+
+```bash
+pip freeze > requirements.txt
+```
+
+If new packages have been added to the requirments.txt file you can easily add them inside your virtual environment like so.
+
+```bash
+pip install -r requirements.txt
 ```
 
 Letsgo teeeam!!
