@@ -2,11 +2,11 @@
 
 # Setup
 
-Note this guide assumes that everyone has a mac.
+**NOTE** this guide assumes that everyone has a mac.
 
 This guide is about how to make a virtual environment. Having a virtual environment is cruical for such a project. A virutal enviornment can be described as follows,
 
-"A virtual environment is like a separate bubble for your Python projects, keeping their libraries and tools from mixing and causing problems with each other or your computer's main setup."
+*"A virtual environment is like a separate bubble for your Python projects, keeping their libraries and tools from mixing and causing problems with each other or your computer's main setup."*
 
 To setup a virtual environment perform the following command.
 
@@ -50,4 +50,4 @@ If new packages have been added to the requirments.txt file you can easily add t
 pip install -r requirements.txt
 ```
 
-Letsgo teeeam!!
+**Letsgo teeeam!!**
