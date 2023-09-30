@@ -22,3 +22,4 @@ The project has a requirments.txt. All our dependecies will reside there. To ins
 ```bash
 pip install -r requirements.txt
 ```
+letsgo teeeam
