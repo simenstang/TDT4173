@@ -11,13 +11,13 @@ This guide is about how to make a virtual environment. Having a virtual environm
 To setup a virtual environment perform the following command.
 
 ```bash
-python3.10 -m venv venv
+python3.10 -m venv sigmoidwarriors
 ```
 
 To activate the virtual environment run the following command. 
 
 ```bash
-source venv/bin/activate
+source sigmoidwarriors/bin/activate
 ```
 You'll see the virtual environment's name in your command prompt, indicating that it's activated.
 
