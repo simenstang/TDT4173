@@ -109,7 +109,7 @@ pycosat==0.6.3
 pycparser==2.21
 pyflakes==2.4.0
 # Editable install with no version control (pyfrbus==1.0.0)
--e /Users/nickaskari/Downloads/pyfrbus_package
+git+https://github.com/yourusername/pyfrbus.git
 Pygments==2.11.2
 PyJWT==2.8.0
 pyparsing==3.0.7
