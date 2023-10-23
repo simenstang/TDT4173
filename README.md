@@ -27,6 +27,11 @@ source sigmoidwarriors/bin/activate
 ```
 You'll see the virtual environment's name in your command prompt, indicating that it's activated.
 
+On Windows,
+```bash
+.\sigmoidwarriors\Scripts\activate
+```
+
 The project has a requirments.txt. All our dependecies will reside there. To install all the necessary dependenices perform the following command.
 
 ```bash
